@@ -2,6 +2,12 @@
 
 A full-featured Gmail clone application built with Flutter, supporting multiple platforms (Android, iOS, Web, Windows, macOS, Linux).
 
+## 🌐 Live Demo
+
+**Web Application:** [https://flutter-email-459809.web.app](https://flutter-email-459809.web.app)
+
+Try the app directly in your browser without any installation!
+
 ## 📱 Features
 
 ### Core Email Features
